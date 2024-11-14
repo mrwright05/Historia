@@ -36,3 +36,6 @@ git push -u origin main
 git remote add origin https://github.com/roywright5/Historia.git
 git branch -M main
 git push -u origin main
+
+Working Directory -> Staging Area -> Local Repo -> Remote Repo (e.g. GitHub)
+    Git add     -> git commit  
