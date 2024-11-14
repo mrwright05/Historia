@@ -5,3 +5,14 @@ git status
 
 Staging area ~ git add . file.txt
 
+git commit -m "commits all files in staging area. that were added"
+
+git log
+
+    HEAD -> currentBranch (e.g. main)
+
+    c0aba1044601f8ba90b55e531a984bc44773e42e
+
+git diff fileName.txt
+git checkout fileName.txt
+    reverts file to last checkpoint commited
