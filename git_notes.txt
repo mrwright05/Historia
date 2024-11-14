@@ -1,0 +1,7 @@
+git init
+Working Directory
+git status
+
+
+Staging area ~ git add . file.txt
+
